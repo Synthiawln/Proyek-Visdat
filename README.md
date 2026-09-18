@@ -2,7 +2,7 @@
 
 Dashboard interaktif berbasis **Tableau** untuk memantau kinerja operasional perusahaan pengiriman air, mencakup arus keuangan, produktivitas sopir, penggunaan armada, hingga sebaran lokasi pelanggan sepanjang tahun 2024.
 
-![Proyek-Visdat](images/proyek visdat.png)
+![Proyek-Visdat](images/project visdat.png)
 
 ## 📌 Latar Belakang
 
