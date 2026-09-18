@@ -2,7 +2,7 @@
 
 Dashboard interaktif berbasis **Tableau** untuk memantau kinerja operasional perusahaan pengiriman air, mencakup arus keuangan, produktivitas sopir, penggunaan armada, hingga sebaran lokasi pelanggan sepanjang tahun 2024.
 
-![Preview Dashboard](images/project visdat.png)
+![Proyek-Visdat](images/proyek visdat.png)
 
 ## 📌 Latar Belakang
 
@@ -38,11 +38,6 @@ Proyek ini dibuat sebagai tugas mata kuliah **Visualisasi Data**, dengan tujuan 
 ## 📊 Sumber Data
 
 Data operasional pengiriman air (transaksi keuangan, jadwal sopir, penggunaan kendaraan, dan lokasi order) tahun 2024. *Data yang ditampilkan telah dianonimkan/disamarkan untuk keperluan publikasi.*
-
-
-## 📷 Preview
-
-Tangkapan layar dashboard tersedia pada `images/project visdat.png`.
 
 ## Kontak
 Synthia Wulandari — [synthiawln@gmail.com](mailto:synthiawln@gmail.com) · [LinkedIn](https://www.linkedin.com/in/synthia-wulandari)
